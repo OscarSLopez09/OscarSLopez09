@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
-- <b>Deploy a WordPress Website using AWS services</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Deploy WordPress Website](https://www.credly.com/badges/6d4068d1-22fc-4737-87f9-497d66f67f59/linked_in_profile)
+ 
 
 <h2>Certifications:</h2>
 
