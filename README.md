@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Deploy a WordPress Website using AWS services</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications:</h2>
