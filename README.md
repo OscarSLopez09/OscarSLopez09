@@ -7,7 +7,7 @@
 
 <h2>Certifications:</h2>
 
-- [AWS Solutions Architec Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [AWS Solutions Architec Associate](https://www.credly.com/badges/6d4068d1-22fc-4737-87f9-497d66f67f59/linked_in_profile)
 
 
 <h2> 🤳 Connect with me:</h2>
