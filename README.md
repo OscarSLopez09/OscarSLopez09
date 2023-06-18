@@ -1,4 +1,8 @@
 <h1>Hi, I'm Oscar! <br/><a href="https://github.com/OscarSLopez09">IT Professional</a>, <a href="https://www.linkedin.com//in/oscar-s-lopez-3b568b189/">AWS Solutions Architec Associate</a>, <a href="https://www.linkedin.com//in/oscar-s-lopez-3b568b189/">Linux Systems</a></h1>
+##
+I am passionate about technology and the role it plays in enabling businesses to achieve their goals. I am excited to continue to grow my career in Cloud Engineering, and I look forward to contributing to the success of future projects and teams.
+
+I'm creating several projects and posting them to Git Hub, which allows me to demonstrate my technical skill in cloud computing. I will continue to upload several projects that will help me strengthen my ability to do the right things at the right time.
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
