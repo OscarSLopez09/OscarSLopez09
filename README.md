@@ -9,7 +9,7 @@ I'm creating several projects and posting them to Git Hub, which allows me to de
 
 - [Deploy WordPress Website](https://github.com/OscarSLopez09/WordPress-website-deployment)
 - [Deploy Website with microservices](https://github.com/OscarSLopez09/Deploy-Website-with-microservices)
-- [Lambda Serverless ap](https://github.com/OscarSLopez09/Lambda-Serverless-App)
+- [Lambda Serverless app](https://github.com/OscarSLopez09/Lambda-Serverless-App)
 
  
 
