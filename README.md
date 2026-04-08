@@ -17,7 +17,7 @@ I'm creating several projects and posting them to Git Hub, which allows me to de
 
 - [AWS Solutions Architec Associate](https://www.credly.com/badges/6d4068d1-22fc-4737-87f9-497d66f67f59/linked_in_profile)
 - [Linux Professional Institute (LPIC-1)](https://www.linkedin.com//in/oscar-s-lopez-3b568b189/)
-- [CompTIA A+](https://www.linkedin.com//in/oscar-s-lopez-3b568b189/)
+
 
 
 
