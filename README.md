@@ -16,14 +16,16 @@ I'm creating several projects and posting them to Git Hub, which allows me to de
 <h2>Certifications:</h2>
 
 - [AWS Solutions Architec Associate](https://www.credly.com/badges/6d4068d1-22fc-4737-87f9-497d66f67f59/linked_in_profile)
-- [Linux Professional Institute (LPIC-1)](https://www.linkedin.com//in/oscar-s-lopez-3b568b189/)
+- [Linux Professional Institute (LPIC-1)](https://www.credly.com/badges/0635be2b-da7f-4c6d-a54d-fb4c750e3f94)
+
+- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 
