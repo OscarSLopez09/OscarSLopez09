@@ -19,8 +19,6 @@ I'm creating several projects and posting them to Git Hub, which allows me to de
 - [Linux Professional Institute (LPIC-1)](https://www.linkedin.com//in/oscar-s-lopez-3b568b189/)
 
 
-
-
 <h2> 🤳 Connect with me:</h2>
 
 
