@@ -22,7 +22,7 @@ I'm creating several projects and posting them to Git Hub, which allows me to de
 
 ## Contact
 - olozone99@gmail.com
-- [Oscar Lopez](www.linkedin.com/in/oscars-lopez) on LinkedIn
+- [Oscar Lopez](https://www.linkedin.com/in/oscars-lopez/) on LinkedIn
 
 
 
